@@ -1,0 +1,5 @@
+85458~Big Oven~G&E~60~950.0~Ranges&Ovens
+85489~Washer~G&E~20~9500.0~Washer&Dryers
+85953~Microwave~G&E~85~198.0~Small Appliances
+85475~Fridge~G&E~97~7500.0~Refrigerators
+45458~Robot Charger II~Tesla~84~999.99~Electronics
